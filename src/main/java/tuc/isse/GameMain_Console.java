@@ -27,7 +27,5 @@ public class GameMain_Console {
         ConsolePlayer player2 = new ConsolePlayer(Token.Color.BLUE,bord);
 
         console.doGame(player1,player2);
-
-        
     }
 }
